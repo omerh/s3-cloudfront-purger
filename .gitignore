@@ -1,0 +1,20 @@
+# application
+s3-cloudfront-purger
+app
+app.zip
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# mac
+.DS_Store
+
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
